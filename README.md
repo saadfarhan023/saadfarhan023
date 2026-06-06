@@ -1,11 +1,5 @@
 # Saad Farhan
 
-Full stack developer based in Karachi, Pakistan. I build backends, APIs, and occasionally wire up AI into things that need it.
+Full stack developer based in Karachi, Pakistan.
 
-## What I work with
-
-Python and TypeScript mostly. On the backend: FastAPI, Django, PostgreSQL. On the frontend: React, Vite. For real-time stuff: Firebase. For AI integrations: Google Gemini, Streamlit.
-
-## Find me
-
-github.com/saadfarhan023
+[saadfarhan023@gmail.com](mailto:saadfarhan023@gmail.com) · [linkedin.com/in/saadfarhan023](https://www.linkedin.com/in/saadfarhan023/)
